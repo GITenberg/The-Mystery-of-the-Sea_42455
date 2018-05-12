@@ -18,6 +18,8 @@ description: 'In the years following the success of his 1897 novel Dracula, Bram
   of this process of experimentation was The Mystery of the Sea. If you''re a fan
   of Stoker''s fiction or a sucker for classic action-adventure, add this to your
   must-read list.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42455#The-Mystery-of-the-Sea
 gutenberg_issued: '2013-04-02'
 gutenberg_type: Text
 identifiers:
