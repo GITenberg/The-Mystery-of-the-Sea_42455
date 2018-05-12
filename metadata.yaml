@@ -1,0 +1,38 @@
+_repo: The-Mystery-of-the-Sea_42455
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42455-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stoker, Bram
+    alias: Stoker, Abraham
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '190'
+    url: http://www.gutenberg.org/2009/agents/190
+    wikipedia: http://en.wikipedia.org/wiki/Bram_Stoker
+description: 'In the years following the success of his 1897 novel Dracula, Bram Stoker
+  took on an even more ambitious creative feat: combining mystery, romance, adventure,
+  Gothic atmosphere, and supernatural elements in one gripping tale. The end result
+  of this process of experimentation was The Mystery of the Sea. If you''re a fan
+  of Stoker''s fiction or a sucker for classic action-adventure, add this to your
+  must-read list.'
+gutenberg_issued: '2013-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Omens -- Fiction'
+- !lcsh 'Visions -- Fiction'
+- !lcsh 'Prophecies -- Fiction'
+- !lcsh 'Code and cipher stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Scotland -- Fiction'
+- !lcc 'PR'
+title: The Mystery of the Sea
+url: http://www.gutenberg.org/ebooks/42455
